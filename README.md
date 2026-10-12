@@ -168,7 +168,7 @@ flowchart LR
 
 ```mermaid
 mindmap
-  root((Vidusha))
+  root((me))
     Languages
       Python
       JavaScript
