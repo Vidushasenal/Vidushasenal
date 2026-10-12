@@ -1,34 +1,61 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=220&text=VIDUSHA%20SENAL&fontSize=55&fontColor=00F5FF&stroke=00F5FF&strokeWidth=1&animation=fadeIn&color=0:050816,50:101B36,100:050816&desc=FULL-STACK%20DEVELOPER%20%7C%20TECH%20ENTHUSIAST&descSize=16&descAlignY=72" alt="Vidusha Senal - Full-Stack Developer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=240&text=VIDUSHA%20SENAL&fontSize=58&fontColor=00F5FF&stroke=00F5FF&strokeWidth=1&animation=fadeIn&color=0:050816,50:101B36,100:050816&desc=FULL-STACK%20DEVELOPER%20%7C%20TECH%20ENTHUSIAST&descSize=16&descAlignY=72" alt="Vidusha Senal - Full-Stack Developer"/>
 
 <a href="https://github.com/Vidushasenal">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=900&color=00F5FF&center=true&vCenter=true&width=650&lines=Building+Ideas+Into+Software;Full-Stack+Web+Development;Python+%7C+JavaScript+%7C+PHP;Learning+Today.+Engineering+Tomorrow." alt="Typing animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=900&color=00F5FF&center=true&vCenter=true&width=650&height=40&lines=Building+Ideas+Into+Software;Full-Stack+Web+Development;Python+%7C+JavaScript+%7C+PHP;Learning+Today.+Engineering+Tomorrow." alt="Typing animation"/>
 </a>
 
-<br/><br/>
+<br/>
 
 <a href="https://github.com/Vidushasenal?tab=repositories">
   <img src="https://img.shields.io/badge/REPOSITORIES-EXPLORE-7C3AED?style=for-the-badge&logo=github&labelColor=050816" alt="Explore repositories"/>
 </a>
 <img src="https://img.shields.io/badge/FOCUS-SOFTWARE%20ENGINEERING-00C896?style=for-the-badge&labelColor=050816" alt="Focus: Software Engineering"/>
+<img src="https://img.shields.io/badge/STATUS-LEARNING%20%26%20BUILDING-00F5FF?style=for-the-badge&labelColor=050816" alt="Status: Learning and Building"/>
 
 </div>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,100:7C3AED&height=2" alt="divider"/>
 
-## `01` — About Me
+## 👨‍💻 `whoami`
 
+```bash
+vidusha@senal:~$ whoami
+> Vidusha Senal — IT & Technology Student, self-taught builder
 
+vidusha@senal:~$ cat interests.txt
+> Full-Stack Development · Software Engineering · AI · Open Source
 
-- 🛠️ Building web applications and experimenting with software ideas
-- 🧱 Exploring frontend, backend, databases and application architecture
-- 🐧 Interested in Python, JavaScript, Linux and open-source development
-- 🎯 Always looking for better ways to solve real-world problems
+vidusha@senal:~$ cat motto.txt
+> Learn. Build. Improve. Repeat.
+```
 
----
+<table>
+  <tr>
+    <td width="50%" valign="top">
 
-## `02` — Technology Arsenal
+### 🔭 What I'm doing
+- 🛠️ Building web apps and software ideas
+- 🧱 Exploring frontend, backend, databases and architecture
+- 🎯 Solving real-world problems with code
+
+</td>
+    <td width="50%" valign="top">
+
+### 🌱 What I'm exploring
+- 🐍 Python & JavaScript in depth
+- 🐧 Linux and the command line
+- 🤖 AI and automation
+- 🌍 Open-source contributions
+
+</td>
+  </tr>
+</table>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,100:00F5FF&height=2" alt="divider"/>
+
+## ⚡ Tech Arsenal
 
 <div align="center">
 
@@ -46,9 +73,9 @@
 
 </div>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,100:7C3AED&height=2" alt="divider"/>
 
-## `03` — GitHub Performance
+## 📊 GitHub Performance
 
 <div align="center">
 
@@ -65,13 +92,13 @@
 
 </div>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,100:00F5FF&height=2" alt="divider"/>
 
-## `04` — Featured Projects
+## 🚀 Featured Projects
 
 <!--
-  TODO: Replace the repo names below with your real public repositories,
-  then delete the comment markers (this whole block) to publish the section.
+  TODO: Replace YOUR_PROJECT_1 / YOUR_PROJECT_2 with real public repo names,
+  then remove the comment markers around this block.
 
 <div align="center">
 
@@ -85,23 +112,23 @@
 </div>
 -->
 
-📌 Check out my pinned repositories, or browse everything on my [repositories page](https://github.com/Vidushasenal?tab=repositories).
+📌 More of my work is on my [repositories page](https://github.com/Vidushasenal?tab=repositories).
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,100:7C3AED&height=2" alt="divider"/>
 
-## `05` — Current Mission
+## 🎯 Current Mission
 
 ```text
-[+] Mastering full-stack development
-[+] Building real-world software projects
-[+] Improving software design and architecture
-[+] Exploring AI and automation
-[+] Contributing to the developer community
+[▶] Mastering full-stack development
+[▶] Building real-world software projects
+[▶] Improving software design and architecture
+[▶] Exploring AI and automation
+[▶] Contributing to the developer community
 ```
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,100:00F5FF&height=2" alt="divider"/>
 
-## `06` — Let's Connect
+## 🤝 Let's Connect
 
 <div align="center">
 
