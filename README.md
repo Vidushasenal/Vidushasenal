@@ -8,9 +8,6 @@
 
 <br/><br/>
 
-<a href="https://github.com/Vidushasenal?tab=followers">
-  <img src="https://img.shields.io/github/followers/Vidushasenal?style=for-the-badge&logo=github&label=FOLLOWERS&color=00F5FF&labelColor=050816" alt="GitHub followers"/>
-</a>
 <a href="https://github.com/Vidushasenal?tab=repositories">
   <img src="https://img.shields.io/badge/REPOSITORIES-EXPLORE-7C3AED?style=for-the-badge&logo=github&labelColor=050816" alt="Explore repositories"/>
 </a>
