@@ -105,6 +105,10 @@ flowchart LR
 
 <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Vidushasenal&bg_color=050816&color=C9D1D9&line=00F5FF&point=7C3AED&area=true&area_color=101B36&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution activity graph"/>
 
+<br/><br/>
+
+<img width="95%" src="https://github-profile-trophy.vercel.app/?username=Vidushasenal&theme=onedark&no-frame=true&no-bg=true&margin-w=12&row=1&column=7" alt="GitHub trophies"/>
+
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,100:00F5FF&height=2" alt="divider"/>
@@ -143,6 +147,26 @@ flowchart LR
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,100:00F5FF&height=2" alt="divider"/>
 
+## ✅ Goals Checklist
+
+> Tick these off as you complete them (change `[ ]` to `[x]`).
+
+- [ ] Build and publish a complete full-stack project
+- [ ] Contribute to an open-source repository
+- [ ] Deploy an application using Docker
+- [ ] Build a small AI-powered tool
+- [ ] Write a technical blog post or project write-up
+- [ ] Reach a 30-day contribution streak
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,100:7C3AED&height=2" alt="divider"/>
+
+## 💡 Open To
+
+> [!TIP]
+> I'm always happy to **collaborate on web and open-source projects**, learn from other developers, and take on new challenges. Feel free to open an issue or reach out below.
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,100:00F5FF&height=2" alt="divider"/>
+
 ## 🤝 Let's Connect
 
 <div align="center">
@@ -166,7 +190,15 @@ flowchart LR
 
 <br/><br/>
 
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random dev quote"/>
+
+<br/><br/>
+
 *"Great software starts with curiosity and grows through consistency."*
+
+<br/>
+
+<a href="#top">⬆️ Back to top</a>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:101B36,100:00F5FF&height=120&section=footer" alt="Footer"/>
 
