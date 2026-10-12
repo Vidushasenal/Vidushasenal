@@ -147,6 +147,75 @@ flowchart LR
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,100:00F5FF&height=2" alt="divider"/>
 
+## 🔄 My Development Workflow
+
+```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#101B36','primaryTextColor':'#00F5FF','primaryBorderColor':'#7C3AED','lineColor':'#00F5FF','secondaryColor':'#050816','tertiaryColor':'#050816','fontFamily':'monospace'}}}%%
+flowchart LR
+    A["💡 Idea"] --> B["📝 Plan"]
+    B --> C["🎨 Design"]
+    C --> D["⌨️ Code"]
+    D --> E["🧪 Test"]
+    E --> F["🚀 Deploy"]
+    F --> G["📈 Improve"]
+    G -.->|next iteration| A
+    E -.->|bug found| D
+```
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,100:7C3AED&height=2" alt="divider"/>
+
+## 🗺️ Skills Mind Map
+
+```mermaid
+mindmap
+  root((Vidusha))
+    Languages
+      Python
+      JavaScript
+      PHP
+      Go
+      C++
+    Web
+      HTML
+      CSS
+      React
+      WordPress
+    Backend
+      Node.js
+      Express
+      Django
+      Laravel
+    Data & Tools
+      MySQL
+      PostgreSQL
+      Git
+      Docker
+      Linux
+    Interests
+      AI
+      Open Source
+      Game Dev with Godot
+```
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,100:00F5FF&height=2" alt="divider"/>
+
+## 🌿 How I Work With Git
+
+```mermaid
+%%{init: {'theme':'dark'}}%%
+gitGraph
+    commit id: "idea"
+    branch feature
+    checkout feature
+    commit id: "build"
+    commit id: "test"
+    checkout main
+    merge feature tag: "v1.0"
+    commit id: "improve"
+```
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,100:7C3AED&height=2" alt="divider"/>
+
 ## ✅ Goals Checklist
 
 > Tick these off as you complete them (change `[ ]` to `[x]`).
