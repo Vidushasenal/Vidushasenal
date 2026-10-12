@@ -19,31 +19,7 @@
 
 ## `01` — About Me
 
-```python
-class Developer:
-    def __init__(self):
-        self.name = "Vidusha Senal"
-        self.role = "IT & Technology Student"
-        self.interests = [
-            "Full-Stack Development",
-            "Software Engineering",
-            "Artificial Intelligence",
-            "Open Source",
-        ]
-        self.current_focus = [
-            "Building practical projects",
-            "Improving problem-solving skills",
-            "Learning modern technologies",
-        ]
 
-    def motto(self):
-        return "Learn. Build. Improve. Repeat."
-
-
-if __name__ == "__main__":
-    me = Developer()
-    print(me.motto())
-```
 
 - 🛠️ Building web applications and experimenting with software ideas
 - 🧱 Exploring frontend, backend, databases and application architecture
