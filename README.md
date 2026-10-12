@@ -20,15 +20,30 @@
 
 ## 👨‍💻 `whoami`
 
-```bash
-vidusha@senal:~$ whoami
-> Vidusha Senal — IT & Technology Student, self-taught builder
+> [!NOTE]
+> 👋 Hi, I'm **Vidusha Senal**, an IT & Technology student who learns by building.
+> I turn ideas into working software, from the first line of code to a finished project.
 
-vidusha@senal:~$ cat interests.txt
-> Full-Stack Development · Software Engineering · AI · Open Source
+<div align="center">
 
-vidusha@senal:~$ cat motto.txt
-> Learn. Build. Improve. Repeat.
+<img src="https://img.shields.io/badge/Full--Stack-Development-00F5FF?style=flat-square&labelColor=050816" alt="Full-Stack Development"/>
+<img src="https://img.shields.io/badge/Software-Engineering-7C3AED?style=flat-square&labelColor=050816" alt="Software Engineering"/>
+<img src="https://img.shields.io/badge/Artificial-Intelligence-00C896?style=flat-square&labelColor=050816" alt="Artificial Intelligence"/>
+<img src="https://img.shields.io/badge/Open-Source-00F5FF?style=flat-square&labelColor=050816" alt="Open Source"/>
+
+</div>
+
+### 🧭 My Growth Path
+
+```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#101B36','primaryTextColor':'#00F5FF','primaryBorderColor':'#7C3AED','lineColor':'#00F5FF','secondaryColor':'#050816','tertiaryColor':'#050816','fontFamily':'monospace'}}}%%
+flowchart LR
+    A["🧠 Fundamentals<br/>Python · JS · Git"] --> B["🌐 Frontend<br/>HTML · CSS · React"]
+    B --> C["⚙️ Backend<br/>Node · Django · Laravel"]
+    C --> D["🗄️ Databases<br/>MySQL · PostgreSQL"]
+    D --> E["🐳 DevOps<br/>Linux · Docker"]
+    E --> F["🤖 AI & Open Source"]
+    F -.->|Learn · Build · Improve · Repeat| A
 ```
 
 <table>
